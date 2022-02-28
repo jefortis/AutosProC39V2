@@ -1,2 +1,2 @@
-# AutosProC39V2
-AutosProC39V2
+# Actividad de la maestra 1_C38_Código Boilerplate
+Actividad de la maestra
